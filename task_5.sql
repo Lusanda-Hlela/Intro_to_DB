@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS alx_book_store
+
 -- Use the database passed as an argument
 USE alx_book_store;
 
